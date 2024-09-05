@@ -8,3 +8,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+// This is the main file where our app is loaded or rendered
